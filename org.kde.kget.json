@@ -51,26 +51,6 @@
             ]
         },
         {
-            "name": "kdelibs4support",
-            "buildsystem": "cmake-ninja",
-            "config-opts": [
-                "-DENABLE_TESTING=OFF"
-            ],
-            "sources": [
-                {
-                    "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/5.97/portingAids/kdelibs4support-5.97.0.tar.xz",
-                    "sha256": "1adfdd09e61dd183de1dfbd1cd24e26ef69ab6429a0cfc292992a7f240244111",
-                    "x-checker-data": {
-                        "type": "anitya",
-                        "project-id": 8762,
-                        "stable-only": true,
-                        "url-template": "https://download.kde.org/stable/frameworks/$major.$minor/portingAids/kdelibs4support-$version.tar.xz"
-                    }
-                }
-            ]
-        },
-        {
             "name": "qca",
             "buildsystem": "cmake-ninja",
             "sources": [
