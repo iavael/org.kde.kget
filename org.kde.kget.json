@@ -21,8 +21,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://boostorg.jfrog.io/artifactory/main/release/1.80.0/source/boost_1_80_0.tar.bz2",
-                    "sha256": "1e19565d82e43bc59209a168f5ac899d3ba471d55c7610c677d4ccf2c9c500c0",
+                    "url": "https://boostorg.jfrog.io/artifactory/main/release/1.81.0/source/boost_1_81_0.tar.bz2",
+                    "sha256": "71feeed900fbccca04a3b4f2f84a7c217186f28a940ed8b7ed4725986baf99fa",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 6845,
@@ -96,8 +96,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.3/src/kget-22.08.3.tar.xz",
-                    "sha256": "d7d20921095669aecad3f4080a9812902a4c8806d24a006d297989abfaee41ac",
+                    "url": "https://download.kde.org/stable/release-service/22.12.0/src/kget-22.12.0.tar.xz",
+                    "sha256": "f52a80d3cd04d46122270e9638cea0b6b18129595bd7f2e16fdaa2acabc47d4d",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
